@@ -32,6 +32,6 @@ Edit tab will let you pick between inpainting or outpainting feature to enhance 
 
 ## Demo Video
 <video controls width="640">
-  <source src="https://raw.githubusercontent.com/f4qihuddin/Image-Generation-with-Stable-Diffusion-v-1.5/main/video_demo_aplikasi_BFGAI..mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/f4qihuddin/Image-Generation-with-Stable-Diffusion-v-1.5/main/video_demo_aplikasi_BFGAI.mp4" type="video/mp4">
   Your browser doesn't support video player
 </video>
