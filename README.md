@@ -32,4 +32,4 @@ Edit tab will let you pick between inpainting or outpainting feature to enhance 
 
 ## Demo Video
 
-[![Watch on YouTube!](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch on YouTube!](https://img.youtube.com/vi/p4yLJVGghxM?si=wKRRrqFzWy00IHuS/hqdefault.jpg)](https://www.youtube.com/watch?v=p4yLJVGghxM?si=wKRRrqFzWy00IHuS)
