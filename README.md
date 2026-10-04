@@ -31,7 +31,5 @@ Edit tab will let you pick between inpainting or outpainting feature to enhance 
     - Outpainting: Where you can expand the image based on given prompt.
 
 ## Demo Video
-<video controls width="640">
-  <source src="https://raw.githubusercontent.com/f4qihuddin/Image-Generation-with-Stable-Diffusion-v-1.5/main/video_demo_aplikasi_BFGAI.mp4" type="video/mp4">
-  Your browser doesn't support video player
-</video>
+
+[![Watch on YouTube!](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
